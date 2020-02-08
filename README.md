@@ -10,7 +10,7 @@ I have a few more ideas, one of them is reserving seats. But that is something i
 
 ### Logical View
 
-* Place here figure that depicts logical overview of your project. (You can use draw.io).
+![](slike/prva.PNG)
 
 
 ### Technology Stack
