@@ -10,7 +10,9 @@ I have a few more ideas, one of them is reserving seats. But that is something i
 
 ### Logical View
 
-![](slike/prva.PNG)
+<img src="Slike/prva.PNG" width = "200"> <img src="Slike/treca.PNG" width = "200">
+<img src="Slike/cetvrta.PNG" width = "200"> <img src="Slike/druga.PNG" width = "200">
+
 
 
 ### Technology Stack
